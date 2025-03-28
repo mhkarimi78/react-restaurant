@@ -19,15 +19,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   direction: rtl; /* راست‌چین کردن متن */
-  font-family: 'Vazir', sans-serif; /* استفاده از فونت Vazir */
 }
 
 body,
 html {
   overflow-x: hidden;
-}
-
-@font-face {
-  font-family: 'Vazir';
-  src: url('./fonts/Vazir.ttf') format('truetype'); /* مسیر به فونت محلی */
 }
