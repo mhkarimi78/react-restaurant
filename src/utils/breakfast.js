@@ -1,21 +1,33 @@
 const breakfast = [
     {
         id: 1,
-        name: 'English breakfast',
+        name: 'چلوکباب کوبیده مخصوص',
         description: 'smoked bacon, sausage, tomato, mushrooms, black pudding, baked beans, eggs',
-        price: '14.50'
+        price: '335,000 تومان'
     },
     {
         id: 2,
-        name: 'Avocado toast',
+        name: 'چلو جوجه کباب مخصوص',
         description: 'poached egg, avocado, onion, tomatoes, bread',
-        price: '8.50'
+        price: '315,000 تومان'
     },
     {
         id: 3,
-        name: 'Burrito',
+        name: 'چلو کباب وزیری مخصوص',
         description: 'tortilla, egg, cheese, potatoes, pork meat',
-        price: '11.25'
+        price: '400,000 تومان'
+    },
+    {
+        id: 3,
+        name: 'چلو کباب کوبیده مرغ مخصوص',
+        description: 'tortilla, egg, cheese, potatoes, pork meat',
+        price: '400,000 تومان'
+    },
+    {
+        id: 3,
+        name: 'چلو جوجه ترش',
+        description: 'tortilla, egg, cheese, potatoes, pork meat',
+        price: '400,000 تومان'
     }
 ];
 

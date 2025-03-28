@@ -28,10 +28,10 @@ function About() {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 1 }}
           >
-            <p>Welcome to Korlake Restaurant in London, the perfect experience for special people. Our fancy restaurant will bring your special moments to another level.</p>
-            <p>Our restaurant is situated at 5 minutes walk from train station and shopping center. The location is ideal for a perfect breakfast, a facny lunch or a nice dinner with your family or friends. We can't wait to serve you our delicious dishes!</p>
+            {/* <p>Welcome to سرآشپز جزیره in London, the perfect experience for special people. Our fancy restaurant will bring your special moments to another level.</p>
+            <p>Our restaurant is situated at 5 minutes walk from train station and shopping center. The location is ideal for a perfect breakfast, a facny lunch or a nice dinner with your family or friends. We can't wait to serve you our delicious dishes!</p> */}
             <Link to='/contact'>
-              <button type='button' className='btn btn-success btn-lg rounded-0 text-capitalize mt-3 shadow'>Contact us</button>
+              <button type='button' className='btn btn-success btn-lg rounded-0 text-capitalize mt-3 shadow'>درباره ما</button>
             </Link>
           </motion.div>
           <motion.div 
@@ -49,9 +49,9 @@ function About() {
         <ImageGallery />
       </div>
 
-      <div className="my-5">
+      {/* <div className="my-5">
         <Reviews />
-      </div>
+      </div> */}
     </div>
   )
 }

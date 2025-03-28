@@ -1,21 +1,39 @@
 const dessert = [
     {
         id: 1,
-        name: 'Lemon cake',
+        name: 'چلو ماهی شیر مخصوص',
         description: 'flour, sugar, baking powder, lemon',
-        price: '9.80'
+        price: '580,000 تومان'
     },
     {
         id: 2,
-        name: 'Cinnamon rolls',
+        name: 'چلو ماهی درسته',
         description: 'flour, salt, sugar, cinnamon, yeast, sour cream, milk',
-        price: '11.75'
+        price: '500,000 تومان'
     },
     {
         id: 3,
-        name: 'Vegan pancakes',
+        name: 'چلو ماهی سرخ شده',
         description: 'flour, sugar, baking powder, soya milk, blueberries',
-        price: '8.50'
+        price: '500,000 تومان'
+    },
+    {
+        id: 3,
+        name: 'چلو میگو سوخاری',
+        description: 'flour, sugar, baking powder, soya milk, blueberries',
+        price: '550,000 تومان'
+    },
+    {
+        id: 3,
+        name: 'چلو میگو دو پیازه',
+        description: 'flour, sugar, baking powder, soya milk, blueberries',
+        price: '500,000 تومان'
+    },
+    {
+        id: 3,
+        name: 'چلو قلیه ماهی',
+        description: 'flour, sugar, baking powder, soya milk, blueberries',
+        price: '380,000 تومان'
     }
 ];
 

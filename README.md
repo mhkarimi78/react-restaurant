@@ -1,8 +1,8 @@
-# React JS Korlake Restaurant Website
+# React JS سرآشپز جزیره Website
 
 ## View live website: https://ionut-cora.github.io/react-restaurant/
 
-<img src="korlake_restaurant.jpg" alt="Korlake Restaurant" />
+<img src="korlake_restaurant.jpg" alt="سرآشپز جزیره" />
 
 ## Dependencies
 - [React JS](https://react.dev/) - JavaScript library
@@ -20,7 +20,7 @@
 - [http://localhost:3000](http://localhost:3000) - open in your browser to see the project
 
 ## Website description
-The Korlake Restaurant website is a multipage custom demo website created with [React JS](https://react.dev/) and [Bootstrap 5](https://getbootstrap.com/).
+The سرآشپز جزیره website is a multipage custom demo website created with [React JS](https://react.dev/) and [Bootstrap 5](https://getbootstrap.com/).
 The website contain 4 pages: Home, Menu, About and Contact. Also contain 6 components: MenuBtn, ImageGallery, Reviews, ContactForm, ContactInfo and Footer.
 
 # Getting Started with Create React App

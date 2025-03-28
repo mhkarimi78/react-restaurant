@@ -1,28 +1,48 @@
 const drink = [
     {
         id: 1,
-        name: 'Organic juice',
-        price: '2.60'
+        name: 'سوپ جو',
+        price: '30,000 تومان'
     },
     {
         id: 2,
-        name: 'Coffee',
-        price: '3.00'
+        name: 'سالاد فصل',
+        price: '50,000 تومان'
     },
     {
         id: 3,
-        name: 'Spirits',
-        price: '5.10'
+        name: 'سالاد شیرازی',
+        price: '30,000 تومان'
     },
     {
       id: 4,
-      name: 'Tea',
-      price: '2.20'
+      name: 'ترشی انبه',
+      price: '30,000 تومان'
     },
     {
       id: 5,
-      name: 'Water',
-      price: '1.49'
+      name: 'سیر ترشی',
+      price: '30,000 تومان'
+    },
+    {
+      id: 5,
+      name: 'زیتون ساده',
+      price: '50,000 تومان'
+    },
+    {
+      id: 5,
+      name: 'زیتون پرورده',
+      price: '60,000 تومان'
+    },
+    {
+      id: 5,
+      name: 'ماست ساده',
+      price: '20,000 تومان'
+    },
+    {
+      id: 5,
+      name: 'ماست موسیر',
+      price: '25,000 تومان'
     }
 ];
 

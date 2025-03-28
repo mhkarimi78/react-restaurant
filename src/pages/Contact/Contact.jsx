@@ -15,7 +15,7 @@ function Contact() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
         >
-          <h1 className='text-light'>Contact</h1>
+          <h1 className='text-light'>درباره ما</h1>
         </motion.div>
       </header>
 
@@ -30,9 +30,9 @@ function Contact() {
         </div>
       </div>
 
-      <div className="bg-dark text-light py-5">
+      {/* <div className="bg-dark text-light py-5">
         <Reviews />
-      </div>
+      </div> */}
     </div>
   )
 }

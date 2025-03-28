@@ -7,7 +7,7 @@ import reviews from '../../utils/reviews';
 function Reviews() {
   return (
     <div className='reviews-section container'>
-        <h2 className='text-center mb-5 text-uppercase fw-bold fs-1'>Reviews</h2>
+        <h2 className='text-center mb-5 text-uppercase fw-bold fs-1'>نظرات</h2>
         <div className="row g-4">
             {reviews.map((review) => (
                 <motion.div 

@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300;400;500;600;700&family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vazir&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Iranian+Sans&display=swap');
 
 body, h1, a, code {
   font-family: 'Montserrat', sans-serif;
@@ -16,9 +18,16 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  direction: rtl; /* راست‌چین کردن متن */
+  font-family: 'Vazir', sans-serif; /* استفاده از فونت Vazir */
 }
 
 body,
 html {
   overflow-x: hidden;
+}
+
+@font-face {
+  font-family: 'Vazir';
+  src: url('./fonts/Vazir.ttf') format('truetype'); /* مسیر به فونت محلی */
 }

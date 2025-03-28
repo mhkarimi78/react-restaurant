@@ -10,13 +10,13 @@ function Home() {
     <div className='home-page'>
         <Header />
 
-        <AboutUsSection />
+        {/* <AboutUsSection /> */}
 
-        <MenuSection />
+        {/* <MenuSection /> */}
 
         <ImageGallery />
 
-        <ContactSection />
+        {/* <ContactSection /> */}
     </div>
   )
 }

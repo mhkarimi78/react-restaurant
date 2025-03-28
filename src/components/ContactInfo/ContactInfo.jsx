@@ -9,11 +9,12 @@ function ContactInfo() {
       whileInView={{ opacity: 1, x: 0 }}
       transition={{ duration: 1 }}
     >
-        <h2 className='fs-1 mb-3 text-uppercase fw-bold'>Where to find us</h2>
-        <p className='mb-5'>47 Baker Street, London LD1 0ND</p>
-        <h3 className='text-capitalize'>Opening hours</h3>
-        <p className="m-0">Mon - Fri: 09:00 - 17:00</p>
-        <p>Sat - Sun: 10:00 - 15:00</p>
+        <h2 className='fs-1 mb-3 text-uppercase fw-bold'>کجا ما را پیدا کنید</h2>
+        <p className='mb-5'>نخل زرین،‌پشت فروشگاه رفاه،‌جنب اداره کار و اشتغال</p>
+        <p className='mb-5'>  گوگل مپ رستوران: <a href='https://maps.app.goo.gl/jXNVbLJ5iCZNUyqX6?g_st=aw' target="_blank" rel="noopener noreferrer">اینجا کلیک کنید</a></p>
+        <h3 className='text-capitalize'>ساعات کاری</h3>
+        <p className="m-0">شنبه - چهارشنبه: 22:00 - 09:00</p>
+        <p>پنچ شنبه - جمعه: 20:00 - 10:00</p>
     </motion.div>
   )
 }
